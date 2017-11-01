@@ -16,7 +16,7 @@ public class Aplicacao {
      */
     public static void main(String[] args) {
         int x =2;
-        // TODO code application logic here
+        int y = 0;
     }
     
 }
